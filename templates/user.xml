@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="fgetter" value="/**&#10; *  Gets the &quot;$formControlName$&quot; control from the &quot;$formName$&quot; form.&#10; *&#10; *  @returns {FormControl} The form control.&#10; */&#10;get $formControlName$(): FormControl {&#10;  return this.$formName$.get('$formControlName$') as FormControl;&#10;}" description="Creates a getter for Angular Forms" toReformat="false" toShortenFQNames="true">
+    <variable name="formControlName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="formName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

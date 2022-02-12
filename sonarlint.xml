@@ -1,0 +1,26 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="$USER_HOME$/.nvm/versions/node/v16.13.1/bin/node" />
+    <rules>
+      <Rule active="false" key="java:S2118" />
+      <Rule active="false" key="java:S1135" />
+      <Rule active="false" key="java:S1452" />
+      <Rule active="false" key="java:S1186" />
+      <Rule active="false" key="java:S1141" />
+      <Rule active="false" key="java:S1192" />
+      <Rule active="false" key="python:S3776" />
+      <Rule active="false" key="java:S112" />
+      <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
+      <Rule active="false" key="java:S3252" />
+      <Rule active="false" key="java:S2142" />
+      <Rule active="false" key="Web:TableHeaderHasIdOrScopeCheck" />
+      <Rule active="false" key="java:S106" />
+      <Rule active="false" key="java:S108" />
+      <Rule active="false" key="java:S2189" />
+      <Rule active="false" key="java:S119" />
+      <Rule active="false" key="java:S6218" />
+      <Rule active="false" key="java:S6207" />
+      <Rule active="false" key="java:S3457" />
+    </rules>
+  </component>
+</application>

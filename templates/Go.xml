@@ -1,0 +1,7 @@
+<templateSet group="Go">
+  <template name="ccc" value="ctx, cancel := CreateCallContext(); defer cancel()&#10;" description="Create Call Context" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+</templateSet>

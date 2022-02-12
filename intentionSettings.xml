@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="AsciiDoc/Extract Include Directive" />
+  </component>
+</application>
